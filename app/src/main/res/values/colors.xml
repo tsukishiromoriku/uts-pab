@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFB4AB</color>
+    <color name="purple_500">#E8634A</color>
+    <color name="purple_700">#D4533B</color>
+    <color name="teal_200">#7DD3FC</color>
+    <color name="teal_700">#0369A1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Coral primary action color -->
+    <color name="primary">#E8634A</color>
+    <color name="primary_dark">#D4533B</color>
+    <color name="primary_light">#FFF0EC</color>
+    <color name="accent">#E8634A</color>
+    <color name="danger">#DC2626</color>
+    <color name="success">#16A34A</color>
+
+    <!-- Consistent Warna Dongker (Navy Blue) -->
+    <color name="header_dark">#0E1E38</color>
+    <color name="header_medium">#152A4A</color>
+    <color name="header_gradient_start">#0E1E38</color>
+    <color name="header_gradient_end">#1B365D</color>
+    <color name="dongker_deep">#0E1E38</color>
+    <color name="dongker_rich">#1B365D</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#7B8794</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_link">#E8634A</color>
+    <color name="password_toggle_tint">#8E9AA8</color>
+
+    <!-- Background / surface -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="card_stroke">#CBD5E1</color>
+    <color name="input_background">#F1F5F9</color>
+    <color name="divider_color">#E0E0E0</color>
+
+    <!-- Night mode -->
+    <color name="night_background">#0E1E38</color>
+    <color name="night_surface">#152A4A</color>
+</resources>

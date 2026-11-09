@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for API 31+. -->
+    <style name="Theme.UTSPABKelompok2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/primary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/header_dark</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="editTextColor">@color/black</item>
+        <item name="android:editTextColor">@color/black</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
+        <item name="android:windowSplashScreenBackground">@color/header_dark</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_header_logo</item>
+    </style>
+
+    <!-- Splash Theme with consistent Dongker background for API 31+ -->
+    <style name="Theme.UTSPABKelompok2.Splash" parent="Theme.UTSPABKelompok2">
+        <item name="android:windowBackground">@drawable/bg_splash_gradient</item>
+        <item name="android:statusBarColor">@color/header_dark</item>
+        <item name="android:navigationBarColor">@color/header_dark</item>
+        <item name="android:windowSplashScreenBackground">@color/header_dark</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_header_logo</item>
+    </style>
+</resources>
+
